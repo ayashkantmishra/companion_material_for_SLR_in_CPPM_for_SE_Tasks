@@ -1,6 +1,6 @@
 # Companion Files for the SLR on Cross-Project Predictive Modelling for Software Engineering Tasks
 
-This repository contains the supplementary material for the systematic literature review on cross-project predictive modelling in software engineering. The material is provided to make the search, screening, rejection, and final study-selection process transparent and easier to verify.
+This repository contains the companion files for the systematic literature review on cross-project predictive modelling in software engineering. The material is provided to make the search, screening, rejection, and final study-selection process transparent and easier to verify.
 
 The review focuses on cross-project prediction studies in software engineering published between 2015 and 2025. The scope is broader than cross-project defect prediction alone and includes software engineering prediction tasks such as defect prediction, vulnerability detection, just-in-time defect prediction, effort estimation, bug localization, self-admitted technical debt detection, and other related cross-project prediction settings.
 
