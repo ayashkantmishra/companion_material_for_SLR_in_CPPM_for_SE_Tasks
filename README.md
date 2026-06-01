@@ -1,4 +1,4 @@
-# Supplementary Material for the SLR on Cross-Project Predictive Modelling for Software Engineering Tasks
+# Companion Files for the SLR on Cross-Project Predictive Modelling for Software Engineering Tasks
 
 This repository contains the supplementary material for the systematic literature review on cross-project predictive modelling in software engineering. The material is provided to make the search, screening, rejection, and final study-selection process transparent and easier to verify.
 
