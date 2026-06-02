@@ -12,7 +12,7 @@ The review focuses on cross-project prediction studies in software engineering p
 .
 ├── README.md
 ├── Supplementary_Paper_Selection.xlsx
-├── Search_Strings_and_Selected_Studies_Appendix.pdf
+├── Companion Material.pdf
 └── bibliography.bib
 ```
 
