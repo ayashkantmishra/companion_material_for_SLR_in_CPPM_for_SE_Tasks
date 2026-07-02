@@ -20,7 +20,7 @@ The review focuses on cross-project prediction studies in software engineering p
 
 ## Files
 
-### 1. `Supplementary_Paper_Selection.xlsx`
+### 1. `Paper_Selectio_Exceln.xlsx`
 
 This Excel file contains the complete paper-screening record used in the review. It is organized into four sheets:
 
@@ -33,7 +33,7 @@ This Excel file contains the complete paper-screening record used in the review.
 
 The Excel file is intended to help reviewers inspect how the final set of selected studies was obtained from the larger candidate set.
 
-### 2. `Search_Strings_and_Selected_Studies_Appendix.pdf`
+### 2. `Companion Material.pdf`
 
 This PDF contains the supplementary appendix for the review. It includes:
 
